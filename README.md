@@ -1,4 +1,6 @@
-![Soheil](/logo.png)
+# ![logo](linepy/LINE.png) LINE ANTI-SPAM Self FA
+
+
 # ربات انتی اسپم سلف فارسی مسنجر لاین
 
 **ورود به بات با 3 روش لینک , توکن , ایمیل**
@@ -31,6 +33,8 @@ _________________________________
 
 
 # اطلاعات تماس
+
+![Soheil](/logo.png)
 
 My Websites : [3oheil](https://3oheil.com)  ,  [W O O D A](httpS://www.wooda.ir)
 
