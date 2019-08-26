@@ -2,9 +2,9 @@
 
 # ورود به بات با 3 روش لینک , توکن , ایمیل 
 
-soheil = `LINE()`
-soheil = `LINE("authtoken")`
-soheil = `LINE("email","Password")`
+1. soheil = `LINE()`
+2. soheil = `LINE("authtoken")`
+3. soheil = `LINE("email","Password")`
 
 
 # قابلیت ها
