@@ -1,7 +1,9 @@
-
-![Soheil STAR](/avatar.png)
+![Soheil](/logo.png)
 
 # انتی اسپم با قابلیت سلف بات
+
+#ورود به بات با 3 روش لینک , توکن , ایمیل
+
 
 # قابلیت ها
 
@@ -14,7 +16,7 @@
 7. ارسال گیفت قلابی برای سرکار گذاشتن دوستان
 8. وضعیت فعال بودن قابلیت های ربات
 
-# ماژول مورد نیاز
+# ماژول های مورد نیاز
 
 1. humanfriendly
 2. pafy
@@ -22,3 +24,11 @@
 4. six
 5. wikipedia
 6. thrift
+
+
+# اطلاعات تماس
+
+My Websites : [3oheil](https://3oheil.com) [W O O D A](httpS://www.wooda.ir)
+
+LINE ID : [soheil.developer](http://line.me/ti/p/~soheil.developer)
+instagram : [soheil.dev](http://instagram.com/soheil.dev)
