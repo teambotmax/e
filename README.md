@@ -1,13 +1,14 @@
 ![Soheil](/logo.png)
+# ربات انتی اسپم سلف فارسی مسنجر لاین
 
-# ورود به بات با 3 روش لینک , توکن , ایمیل 
+**ورود به بات با 3 روش لینک , توکن , ایمیل**
 
 1. soheil = `LINE()`
 2. soheil = `LINE("authtoken")`
 3. soheil = `LINE("email","Password")`
 
 
-# قابلیت ها
+## قابلیت ها
 
 - ارسال اکانت کاربر 
 - بلاک خودکار بات درصورت ادد با قابلیت روشن و خاموش کردن قالبیت
@@ -19,7 +20,7 @@
 - وضعیت فعال بودن قابلیت های ربات
 _________________________________
 
-# ماژول های مورد نیاز
+## ماژول های مورد نیاز
 
 1. humanfriendly
 2. pafy
@@ -33,6 +34,5 @@ _________________________________
 
 My Websites : [3oheil](https://3oheil.com)  ,  [W O O D A](httpS://www.wooda.ir)
 
-LINE ID : [soheil.developer](http://line.me/ti/p/~soheil.developer) , 
-
+LINE ID : [soheil.developer](http://line.me/ti/p/~soheil.developer)  
 instagram : [soheil.dev](http://instagram.com/soheil.dev)
